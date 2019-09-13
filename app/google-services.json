@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399474311506",
+    "firebase_url": "https://rentacles-2fe2f.firebaseio.com",
+    "project_id": "rentacles-2fe2f",
+    "storage_bucket": "rentacles-2fe2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399474311506:android:ef44d17ee1d3431e",
+        "android_client_info": {
+          "package_name": "com.example.rentacles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399474311506-gb7e35m2i11hgs0ta8fqa88cdpq22f6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentacles",
+            "certificate_hash": "0a15037b650cfb194c62fcaaa73eeb590f2c50f4"
+          }
+        },
+        {
+          "client_id": "399474311506-7lpsji87sg4qhd1slbf0mvcrda4ct526.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPT0AoWwWojG9Q5-YUx91P6ZI2T7h9c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399474311506-7lpsji87sg4qhd1slbf0mvcrda4ct526.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
